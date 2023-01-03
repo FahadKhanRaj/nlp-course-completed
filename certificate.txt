@@ -1,0 +1,3 @@
+This is an NLP related online course that I have done from DataCamp before taking this CSE 431. 
+
+https://www.datacamp.com/statement-of-accomplishment/course/8f3df080bbd50a4ec2493bd97b490a007aba00e7
